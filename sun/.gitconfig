@@ -1,6 +1,0 @@
-[user]
-	name = Darshanraj R
-	email = darshanrajkr123@gmail.com
-[core]
-	editor = code --wait
-	autocrlf = true
